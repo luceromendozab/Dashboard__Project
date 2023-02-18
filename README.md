@@ -18,9 +18,13 @@ The data for this dashboard comes from the following sources:
 ## Results Analysis
 Our analysis of the data showed that average salaries for data scientists vary significantly by country and region. The highest salaries are found in the United States and some countries in Western Europe, while the lowest salaries are found in some countries in Latin America and Asia.
 
-We also can see that there is a positive correlation between years of experience and salary for both Spain and the USA. However, the salaries in the USA are generally higher than in Spain for each level of experience.
+Regarding the analysis of differences between Spain and the United States we also can see that there is a positive correlation between years of experience and salary for both . However, the salaries in the USA are generally higher than in Spain for each level.
 
-It should be noted that while in Spain remote work prevails with 85.71%, and  partiallly-remote work with 14.29% , in  USA on-site work can still be observed with 20%.
+It should be noted that while in Spain remote work prevails with 85.71%, and  partiallly-remote work with 14.29% , in  USA on-site work can still be observed with 20%. This may be caused by cultural differences: in Spain, there may be more emphasis on work-life balance, and remote work may be seen as a way to achieve this balance. By contrast, the US may have a more traditional office culture where face-to-face interaction is valued.
+
+And as a curious fact, in Spain a small company pays better on average than a large one, this may be cause because smaller companies may have less bureaucracy and be more flexible in terms of compensation. Spain may need more demand for talent and need skilled workers compared to larger countries such as the USA, which means that small companies may need to pay higher salaries to attract and retain the best employees.
+
+On the other hand, larger companies in the USA may be able to pay more due to their greater financial resources, economy, and the ability to attract a larger pool of highly skilled workers. Larger companies may also have more established career paths and training programs, which can lead to higher salaries and greater opportunities for advancement.
 
 ## Tools
 
