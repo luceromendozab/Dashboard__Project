@@ -7,7 +7,7 @@ Have you ever wondered how much data analysts earn in other countries? How does 
 
 That's why I decided to create this dashboard, to help students get a better understanding of industry salaries.
 
-[My Dashboard](https://public.tableau.com/app/profile/lucero.mendoza8271/viz/salaries_16756398287530/DashboardWORLD?publish=yes) consists of several pages that offer different visualizations and statistics on the average salaries of data scientists in different countries. First users can select different countries to view them and compare them to other places, exploring different factors, such as work experience, employment type and the company size. Finally  considering my own location and the average salaries in different countries , I decided to compare salaries in Spain and USA  because USA has a highly ideveloped industry , while Spain is still developing . 
+[My Dashboard](https://public.tableau.com/app/profile/lucero.mendoza8271/viz/salaries_16756398287530/DashboardWORLD?publish=yes) consists of several pages that offer different visualizations and statistics on the average salaries of data scientists in different countries. First users can select different countries to view them and compare them to other places, exploring different factors, such as work experience, employment type and the company size. Finally  considering my own location and the average salaries in different countries , I decided to compare salaries between Spain and USA because I was interested in how the supply and demand of data professionals impacted compensation in these two countries.Spain and the USA have different economic contexts, which I thought could lead to interesting comparisons in terms of salaries and job opportunities.
 
 ## Data Sources
 
