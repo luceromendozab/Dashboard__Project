@@ -1,9 +1,10 @@
 # DATA WORLD: A GLOBAL SALARIES PERSPECTIVE
 
-![imagen](https://github.com/luceromendozab/Dashboard__Project/blob/main/images/salaries_world.jpeg)
+![imagen](https://github.com/luceromendozab/Dashboard__Project/blob/main/images/salary.jpeg)
  
-## Introduction 
-This dashboard was created with the purpose of providing detailed information about the average salaries of data scientists in different countries and regions of the world. 
+## Introduction  
+
+[My Dashboard](https://public.tableau.com/app/profile/lucero.mendoza8271/viz/salaries_16756398287530/DashboardWORLD?publish=yes) was created with the purpose of providing detailed information about the average salaries of data scientists in different countries and regions of the world. 
 
 The dashboard consists of several pages that offer different visualizations and statistics on the average salaries of data scientists in different countries. Users can select different countries  to view average salaries and compare them to other places. They can also explore different factors, such as work experience, emplyment type,   which can affect salaries.
 
@@ -21,7 +22,7 @@ We also found that factors such as work experience have a significant impact on 
 
 ## Tools
 
-- Tableau: is a data visualization software that allows users to connect, visualize, and share data in interactive and engaging ways
+- [Tableau](https://www.tableau.com/es-es): is a data visualization software that allows users to connect, visualize, and share data in interactive and engaging ways
 - Python: is a versatile and powerful language that is widely used and respected by developers and organizations around the world.
 - Pandas: is a popular open-source Python library used for data manipulation and analysis. 
 - Country_converter: is a Python library that provides a convenient way to convert country names, ISO codes, and other country-related information. It is particularly useful in data analysis and research where data from multiple sources may use different country names or codes.
