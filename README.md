@@ -1,5 +1,7 @@
-# DATA WORLD 
-# A GLOBAL SALARIES PERSPECTIVE
+# DATA WORLD: A GLOBAL SALARIES PERSPECTIVE
+
+![Texto alternativo](/ruta/a/la/imagen.jpg)
+
 
 ## Introduction 
 
