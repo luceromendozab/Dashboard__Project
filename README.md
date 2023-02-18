@@ -1,8 +1,7 @@
 # DATA WORLD: A GLOBAL SALARIES PERSPECTIVE
 
-![Texto alternativo](https://github.com/luceromendozab/Dashboard__Project/blob/main/images/salary%20image.png?raw=true)
-
-
+![imagen](https://github.com/luceromendozab/Dashboard__Project/blob/main/images/salary%20image.png)
+ 
 ## Introduction 
 
 The dashboard consists of several pages that offer different visualizations and statistics on the average salaries of data scientists in different countries. Users can select different countries  to view average salaries and compare them to other places. They can also explore different factors, such as work experience, emplyment type,   which can affect salaries.
