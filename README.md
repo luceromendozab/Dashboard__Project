@@ -27,7 +27,7 @@ It should be noted that while in Spain remote work prevails with 85.71%, and  pa
 - [Tableau](https://www.tableau.com/es-es): is a data visualization software that allows users to connect, visualize, and share data in interactive and engaging ways
 - [Python](https://www.python.org/downloads/): is a powerful programming language that lets you work more quickly and integrate your systems more effectively.
 
-- [Pandas] (https://pandas.pydata.org/docs/): is a popular open-source Python library used for data manipulation and analysis. 
+- [Pandas](https://pandas.pydata.org/docs/) : is a popular open-source Python library used for data manipulation and analysis. 
 - [Country_converter](https://pypi.org/project/country-converter/): is a Python library that provides a convenient way to convert country names, ISO codes, and other country-related information. It is particularly useful in data analysis and research where data from multiple sources may use different country names or codes.
 
 ## Next Steps
