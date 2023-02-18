@@ -13,7 +13,7 @@ That's why I decided to create this dashboard, to help students get a better und
 
 The data for this dashboard comes from the following sources:
 
-- [Kaggle Data Science Job Salaries ] (https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
+- [Kaggle Data Science Job Salaries ](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
 
 ## Results Analysis
 Our analysis of the data showed that average salaries for data scientists vary significantly by country and region. The highest salaries are found in the United States and some countries in Western Europe, while the lowest salaries are found in some countries in Latin America and Asia.
