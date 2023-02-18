@@ -1,6 +1,6 @@
 # DATA WORLD: A GLOBAL SALARIES PERSPECTIVE
 
-![imagen](https://github.com/luceromendozab/Dashboard__Project/blob/main/images/salary%20image.png)
+![imagen](https://github.com/luceromendozab/Dashboard__Project/blob/main/images/salaries_world.jpeg)
  
 ## Introduction 
 This dashboard was created with the purpose of providing detailed information about the average salaries of data scientists in different countries and regions of the world. 
@@ -26,10 +26,10 @@ We also found that factors such as work experience have a significant impact on 
 - Pandas: is a popular open-source Python library used for data manipulation and analysis. 
 - Country_converter: is a Python library that provides a convenient way to convert country names, ISO codes, and other country-related information. It is particularly useful in data analysis and research where data from multiple sources may use different country names or codes.
 
-## Limitations and Next Steps
-This analysis and dashboard have several limitations that should be noted. First, the data we used may not be entirely accurate or representative, especially in countries where salary data is not publicly available. 
+## Next Steps
+This analysis and dashboard have several limitations especially in countries where salary data is not publicly available. 
 
-In the future, it is crucial to incorporate more data and variables into our analysis to create more comprehensive and accurate visualizations. We would also like to integrate predictive models and machine learning into our dashboard to provide projections of future salaries.
+In the future, it is crucial to incorporate more data and variables into our analysis to create more detailed visualizations. We would also like to integrate predictive models and machine learning into our dashboard to provide projections of future salaries.
 
 ## Requirements and Dependencies
 
