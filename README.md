@@ -3,11 +3,14 @@
 ![imagen](https://github.com/luceromendozab/Dashboard__Project/blob/main/images/salary%20image.png)
  
 ## Introduction 
+This dashboard was created with the purpose of providing detailed information about the average salaries of data scientists in different countries and regions of the world. 
 
 The dashboard consists of several pages that offer different visualizations and statistics on the average salaries of data scientists in different countries. Users can select different countries  to view average salaries and compare them to other places. They can also explore different factors, such as work experience, emplyment type,   which can affect salaries.
 
 ## Metodology 
 
+- csv from Kaggle 
+- clean :here 
 
 ## Results Analysis
 Our analysis of the data showed that average salaries for data scientists vary significantly by country and region. The highest salaries are found in the United States and some countries in Western Europe, while the lowest salaries are found in some countries in Latin America and Asia.
