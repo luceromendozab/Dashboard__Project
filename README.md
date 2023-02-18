@@ -1,6 +1,6 @@
 # DATA WORLD: A GLOBAL SALARIES PERSPECTIVE
 
-![Texto alternativo](/https://github.com/luceromendozab/Dashboard__Project/blob/main/images/salary%20image.png)
+![Texto alternativo](https://github.com/luceromendozab/Dashboard__Project/blob/main/images/salary%20image.png?raw=true)
 
 
 ## Introduction 
